@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = KvCalc
+title = kvCalc
 
 # (str) Package name
 package.name = kvcalc
