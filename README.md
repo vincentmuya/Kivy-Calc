@@ -21,7 +21,7 @@ No known bugs.
 
 -Python
 -Kivy
-
+-Buildozer
 
 ## Support and contact details
 
